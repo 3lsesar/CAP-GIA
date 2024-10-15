@@ -1,0 +1,14 @@
+Conectar al Server
+
+ssh -i id_rsa giacap21@cromai-fog01.ac.upc.edu
+
+vagrant up / vagrant halt
+vagrant ssh / exit
+
+df -lh
+
+usuario bsc: nct01171
+
+password base: xs8phe.171
+
+psw: sunwukong
